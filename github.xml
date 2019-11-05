@@ -1,4 +1,9 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="e179b53b-5cd1-4b00-9455-438b73d3a6c0" name="alexanderkodatenko">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="PRIVATE_GIST" value="false" />
   </component>
